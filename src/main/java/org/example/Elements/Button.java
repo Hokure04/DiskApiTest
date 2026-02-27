@@ -1,6 +1,5 @@
 package org.example.Elements;
 
-import org.example.Driver.DriverManager;
 import org.openqa.selenium.By;
 
 public class Button extends BaseElement {

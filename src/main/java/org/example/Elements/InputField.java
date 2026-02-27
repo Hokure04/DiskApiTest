@@ -9,7 +9,7 @@ public class InputField extends BaseElement{
     }
 
 
-    public void InputText(String text){
+    public void inputText(String text){
         findElement().sendKeys(text);
     }
 
